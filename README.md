@@ -6,7 +6,7 @@ id/pw:ubuntu
 ubuntu cli로 변경 가능하나 편의성을 위해 gui로 테스트 후 
 마무리에 cli로 테스트하는것이 낫다고 판단
 
-# 무조건!!! settings에서 Network-Adapter를 localhost로 지정후 사용할것
+# 무조건!!! settings에서 Network-Adapter를 host-only로 지정후 사용할것
 
 
 ubuntu 탐지파일 실행:
