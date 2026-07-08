@@ -23,11 +23,15 @@ ubuntu 탐지파일 실행:
 ```
 
 외부파일(vmware 밖)을 안으로 넣고 싶을때는 cloud (git)에 저장하여서
+
 `git clone 깃주소` 를 하여 다운받는게 가장 좋다.
-drag&drop 할시 오류나 렉이 발생 
+
+drag&drop 할시 오류나 렉이 발생
+
 
 kali는 home/miniproject에 공격,스캔파일이 있다. 
-Howto를 열면 명령어와 기본 실행코드가 적혀있다.
+
+Howto를 열면 명령어와 기본 실행코드가 적혀있으니 참고.
 
 
 snapshot은 되도록 지양할것. (용량이 배로 커짐)
