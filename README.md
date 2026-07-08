@@ -1,5 +1,6 @@
 kali-linux: 공격 redteam용 vmware
 id/pw: kali
+
 ubuntu 24.04.: 방어팀용 ubuntu GUI 
 id/pw:ubuntu
 
